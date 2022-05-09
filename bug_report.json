@@ -1,11 +1,11 @@
 {
 "Bug ID": "1a"
-"Summary": "Error message occurs when press button “Save” in Menu Editor";
-"Description": "There is an error message “Ooooops” when you press a “Save” button in Menu Editor Screen";
-"Actual result": "Error message";
-"Expected result": "Correct functionality of the “Save” button";
+"Summary": "Error message occurs when press button “Save” in Menu Editor"
+"Description": "There is an error message “Ooooops” when you press a “Save” button in Menu Editor Screen"
+"Actual result": "Error message"
+"Expected result": "Correct functionality of the “Save” button"
 "Steps to reproduce": "[1.	Open the application 2.	Login 3.	Open the Menu list 4.	Press Create button 5.	Menu editor screen occurs 6.	Fill in the fields in Menu Editor Screen 7.	Press Save button]";
-"Severity": "Major";
-"Priority": "ASAP";
-"Reproducible": "Always";
+"Severity": "Major"
+"Priority": "ASAP"
+"Reproducible": "Always"
 }
