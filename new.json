@@ -1,7 +1,10 @@
 {
-“name”: ”Natalia Korbut”,
-“age”: 36,
-“pets”: 6,
-“salary”: 500
+   "Person":{
+      "Name":"Natalia",
+      "Surname":"Korbut",
+      "Age":36
+   },
+   "Pets":6,
+   "Salary":500
 }
 
