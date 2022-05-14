@@ -1,0 +1,11 @@
+{
+"Bug ID": "1a",
+"Summary": "Error_message_occurs_when_press_button_Save_in_Menu_Editor",
+"Description": "Ther_is_an_error_message_Ooooops_when_you_press_a_Save_button_in_Menu_Editor_Screen",
+"Actual result": "Error_message",
+"Expected result": "Correct_functionality_of_the_Save_button",
+"Steps to reproduce": ["1.Open_the_application", "2.Login", "3.Open_the_Menu_list", "4.Press_Create_button", "5.Menu_editor_screen_occurs", "6.Fill_in_the_fields_in_Menu_Editor_Screen", "7.Press_Save_button"],
+"Severity": "Major",
+"Priority": "ASAP",
+"Reproducible": "Always"
+}
